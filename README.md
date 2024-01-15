@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Marwan-Taha.Marwan-Taha"/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=roboto&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Marwan;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=&weight=900&size=35&pause=800&color=0B17C6C1&center=true&vCenter=true&random=false&width=435&lines=It's+Marwan;Software+Engineer" alt="Typing SVG" />
 </h1>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Marwan-Taha&show_icons=true&theme=radical" alt="My stats" align="left" width="38%"/>
