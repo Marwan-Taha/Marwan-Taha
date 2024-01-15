@@ -1,6 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Marwan-Taha.Marwan-Taha"/>
 
-### Hey, I'm Marwan👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=roboto&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Marwan;" />
+</h1>
+
 <img src="https://github-readme-stats.vercel.app/api?username=Marwan-Taha&show_icons=true&theme=radical" alt="My stats" align="left" width="38%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marwan-Taha&layout=compact&theme=radical" alt="Top Languages" align="left" width="38%"/>
 <!--
