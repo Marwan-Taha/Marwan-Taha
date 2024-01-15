@@ -1,6 +1,6 @@
 ### Hey, I'm Marwan👋
-<img src="https://github-readme-stats.vercel.app/api?username=Marwan-Taha&show_icons=true" alt="My stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marwan-Taha&layout=compact" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=Marwan-Taha&show_icons=true" alt="My stats" align="left" width="38%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marwan-Taha&layout=compact" alt="Top Languages" align="left" width="38%">
 <!--
 **Marwan-Taha/Marwan-Taha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
