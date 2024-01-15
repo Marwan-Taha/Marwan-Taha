@@ -1,4 +1,4 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Marwan-Taha.Marwan-Taha">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Marwan-Taha.Marwan-Taha"/>
 
 ### Hey, I'm Marwan👋
 <img src="https://github-readme-stats.vercel.app/api?username=Marwan-Taha&show_icons=true&theme=radical" alt="My stats" align="left" width="38%"/>
