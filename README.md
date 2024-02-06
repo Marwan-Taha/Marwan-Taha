@@ -12,6 +12,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marwan-Taha&layout=compact&theme=radical" alt="Top Languages" align="left" width="48%"/>
 </div><
 
+<div align="center">
+     🌱 I’m currently learning **React, Python, Databases**
+     💬 Ask me about **Java, C++, HTML, CSS, Javascript... or anything [here](https://github.com/Marwan-Taha/Marwan-Taha/issues)**
+ </div>
 
 
 
