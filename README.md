@@ -12,7 +12,7 @@
 </div><
 
 
-<br/>
+<br>
 
 <div align = "center">
     🌱 I’m currently learning **React, Python, Databases**
