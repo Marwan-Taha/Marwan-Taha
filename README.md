@@ -14,7 +14,7 @@
 
 <br/>
 
-<div>
+<div align = "center">
     🌱 I’m currently learning **React, Python, Databases**
     💬 Ask me about **HTML, CSS, Javascript, C++, Java... or anything [here](https://github.com/Marwan-Taha/Marwan-Taha/issues)**
 </div>
