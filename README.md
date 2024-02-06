@@ -12,23 +12,15 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marwan-Taha&layout=compact&theme=radical" alt="Top Languages" align="left" width="48%"/>
 </div><
 
-<div align="center">
-    
-     🌱 I’m currently learning **React, Python, Databases**
-    
-     💬 Ask me about **Java, C++, HTML, CSS, Javascript... or anything**
-     
- </div>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **React, Python, Databases**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](marwantaha988@outlook.com)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
 
  </div>
 
