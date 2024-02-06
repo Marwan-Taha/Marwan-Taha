@@ -5,7 +5,6 @@
 </h1>
 
 <h2 align="center">My Stats</h2>
-<hr/>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Marwan-Taha&show_icons=true&theme=radical" alt="My stats" align="left" width="38%"/>
 </div>
