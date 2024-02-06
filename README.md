@@ -12,16 +12,15 @@
 </div>
 
 <br/>
-<hr/>
-<div align="center">
- 
+
+<div align="center>
+    
  🌱 I’m currently learning **React, Python, Databases**
 
 💬 Ask me about **HTML, CSS, Javascript, C++, Java... or anything [here](https://github.com/Marwan-Taha/Marwan-Taha/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
+</div>
 
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
