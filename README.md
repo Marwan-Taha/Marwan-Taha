@@ -10,7 +10,7 @@
 </div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marwan-Taha&layout=compact&theme=radical" alt="Top Languages" align="left" width="48%"/>
-</div><
+</div>
 
 
 <div align="center">
