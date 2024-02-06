@@ -13,8 +13,8 @@
 </div><
 
 <div align="center">
-     🌱 I’m currently learning **React, Python, Databases**
-     💬 Ask me about **Java, C++, HTML, CSS, Javascript... or anything [here](https://github.com/Marwan-Taha/Marwan-Taha/issues)**
+     🌱 I’m currently learning React, Python, Databases
+     💬 Ask me about Java, C++, HTML, CSS, Javascript... or anything [here](https://github.com/Marwan-Taha/Marwan-Taha/issues)
  </div>
 
 
