@@ -4,14 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=&weight=900&size=35&pause=800&color=0B17C6C1&center=true&vCenter=true&random=false&width=435&lines=It's+Marwan;Software+Engineer" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
-<br/>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Marwan-Taha&show_icons=true&theme=radical" alt="My stats" align="left" width="38%"/>
 </div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marwan-Taha&layout=compact&theme=radical" alt="Top Languages" align="left" width="38%"/>
-</div><br/>
+</div><
 
 
 <br/>
@@ -19,9 +17,9 @@
 
 <div align="center">
     
-     🌱 I’m currently learning **React, Python, Databases**
+     🌱 I’m currently learning **React, Python, Databases
 
-     💬 Ask me about **HTML, CSS, Javascript, C++, Java... or anything [here](https://github.com/Marwan-Taha/Marwan-Taha/issues)**
+     💬 Ask me about **HTML, CSS, Javascript, C++, Java... or anything [here](https://github.com/Marwan-Taha/Marwan-Taha/issues)
     
 </div>
     
