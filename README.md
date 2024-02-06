@@ -9,41 +9,25 @@
 </div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marwan-Taha&layout=compact&theme=radical" alt="Top Languages" align="left" width="38%"/>
-</div>
-
-<br/>
+</div><br/>
 
 
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+<br>
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
 
 <div align="center">
-    <p>
-     I’m currently learning **React, Python, Databases**
+    
+     🌱 I’m currently learning **React, Python, Databases**
 
-     Ask me about **HTML, CSS, Javascript, C++, Java... or anything [here](https://github.com/Marwan-Taha/Marwan-Taha/issues)**
-    </p>
+     💬 Ask me about **HTML, CSS, Javascript, C++, Java... or anything [here](https://github.com/Marwan-Taha/Marwan-Taha/issues)**
+    
 </div>
     
      
 
 
 
- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
+
 
 <!--
 **Marwan-Taha/Marwan-Taha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
