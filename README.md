@@ -7,6 +7,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Marwan-Taha&show_icons=true&theme=radical" alt="My stats" align="left" width="38%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marwan-Taha&layout=compact&theme=radical" alt="Top Languages" align="left" width="38%"/>
 
+<br/>
+
 <div align="center">
  
  🌱 I’m currently learning **React, Python, Databases**
